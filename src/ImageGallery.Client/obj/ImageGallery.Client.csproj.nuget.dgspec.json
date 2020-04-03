@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj": {}
+    "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Client\\ImageGallery.Client.csproj": {}
   },
   "projects": {
-    "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj": {
+    "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Client\\ImageGallery.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
+        "projectUniqueName": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
         "projectName": "ImageGallery.Client",
-        "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
+        "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
         "packagesPath": "C:\\Users\\kiran\\.nuget\\packages\\",
-        "outputPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Client\\obj\\",
+        "outputPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
-                "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj"
+              "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+                "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+    "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+        "projectUniqueName": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
         "projectName": "ImageGallery.Model",
-        "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+        "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
         "packagesPath": "C:\\Users\\kiran\\.nuget\\packages\\",
-        "outputPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\obj\\",
+        "outputPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",

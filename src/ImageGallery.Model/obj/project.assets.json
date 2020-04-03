@@ -1639,11 +1639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+      "projectUniqueName": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
       "projectName": "ImageGallery.Model",
-      "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+      "projectPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
       "packagesPath": "C:\\Users\\kiran\\.nuget\\packages\\",
-      "outputPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\02\\demos\\start-end\\src\\ImageGallery.Model\\obj\\",
+      "outputPath": "C:\\_play\\securing-aspnet-core-3-oauth2-openid-connect\\secure-apps-oauth2-openid-conect\\src\\ImageGallery.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
